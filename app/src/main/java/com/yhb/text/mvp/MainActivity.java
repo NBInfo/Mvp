@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity implements IUserView, View.O
     private EditText username;
     private EditText password;
     private Button submit;
+    private int o=10;
     private UserPresonter userPresonter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="D:\androidstudio\workspace\Mvp\INter" vcs="Git" />
-    <mapping directory="D:\androidstudio\workspace\Mvp\Mvp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
